@@ -1,0 +1,1 @@
+Change background color with JS - task from https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals
